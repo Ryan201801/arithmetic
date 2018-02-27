@@ -1,3 +1,5 @@
+package arithmetic;
+
 /**
  *@Description: 随机数
  *@Author: Ryan
