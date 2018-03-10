@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *@Description:将所有在listB中存在，但listA中不存在的字符串，存放到A中(重复的也算)
+ *@Description:  将所有在listB中存在，但listA中不存在的字符串，存放到A中(重复的也算)
  *@Author:Ryan
  *@Date:2018/1/29  23:36
  */
