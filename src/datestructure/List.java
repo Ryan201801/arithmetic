@@ -1,7 +1,7 @@
 package datestructure;
 
 /**
- *@Description: 数据结构——线性表
+ *@Description: 数据结构——顺序线性表
  *@Author: Ryan
  *@Date: 2018/2/27  21:55
  */
