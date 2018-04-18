@@ -6,7 +6,7 @@ package datestructure;
  *@Date: 2018/2/27  21:55
  */
 
-public class List {
+public class LinearList_Sequence {
 
     /**
      *@Description: 打印数组中的元素
