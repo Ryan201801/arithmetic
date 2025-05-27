@@ -1,5 +1,4 @@
 # arithmetic
-123456123123123
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
